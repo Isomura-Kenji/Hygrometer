@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Hygrometer Member=R?
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=X? NewDesignator=X7
+Added Member To Class: ClassName=Hygrometer Member=Component R18 Resistor film, 10k, ±5%, 0201, 0.05W, -55...+125°C

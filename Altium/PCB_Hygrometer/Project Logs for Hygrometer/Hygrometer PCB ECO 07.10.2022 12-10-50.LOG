@@ -1,0 +1,26 @@
+Added Component: Designator=B?(BAT: CH224-2032)
+Add component (AddParameter): Name = "CommentText"; Value = "CR2032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/bh-642"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KLS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CH224-2032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Single battery CR2032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single battery CR2032"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=B?-1
+Added Pin To Net: NetName=GND Pin=B?-2
+Add Net: Net with name "NetC?_1" already exists
+Added Member To Class: ClassName=Hygrometer Member=Component B? Single battery CR2032
+Added Member To Class: ClassName=Hygrometer Member=Component C? Ceramic capacitor, 1nF, X7R, ±10%, 16V, 0201, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component C? Ceramic capacitor, 100pF, X7R, ±10%, 16V, 0201, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component C? Ceramic capacitor, 100pF, X7R, ±10%, 16V, 0201, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component C? Ceramic capacitor, 100nF, X7R, ±10%, 16V, 0201, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component D? LMV321ILT
+Added Member To Class: ClassName=Hygrometer Member=Component R? Resistor film, 10k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component R? Resistor film, 3k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component R? Resistor film, 1M, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component R? Resistor film, 10k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component R? Resistor film, 1k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component R? Resistor film, 1k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component R? Resistor film, 10k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component R? Resistor film, 1.6k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component R? Resistor film, 10k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Hygrometer Member=Component SB? Tactile button, 6x6mm

@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Hygrometer Member=X7
+Added Pin To Net: NetName=1WIRE Pin=D3-20
+Added Pin To Net: NetName=PWM Pin=D3-12
+Added Pin To Net: NetName=PWM Pin=R9-1
+Added Net: Name=PWM
